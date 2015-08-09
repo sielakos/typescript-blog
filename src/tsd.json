@@ -31,6 +31,15 @@
     },
     "sinon/sinon.d.ts": {
       "commit": "8de599097a8acb3c246f9cc152f07b323c5a8b49"
+    },
+    "mongoose/mongoose.d.ts": {
+      "commit": "8de599097a8acb3c246f9cc152f07b323c5a8b49"
+    },
+    "lodash/lodash.d.ts": {
+      "commit": "3b0f362204ea965952dafdb682a5274d527ef9d0"
+    },
+    "body-parser/body-parser.d.ts": {
+      "commit": "3b0f362204ea965952dafdb682a5274d527ef9d0"
     }
   }
 }

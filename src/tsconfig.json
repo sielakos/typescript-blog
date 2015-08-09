@@ -24,21 +24,27 @@
     ],
     "files": [
         "./index.ts",
-        "./posts/controllers/helloWorld.controller.ts",
+        "./posts/controllers/Post.controller.ts",
+        "./posts/models/Post.model.ts",
         "./posts/routes.ts",
         "./routes.ts",
         "./routingConfigurator.ts",
         "./tests/mockeryInit.ts",
         "./tests/routingConfigurator.test.ts",
+        "./tests/utils/validator.util.test.ts",
         "./typings/bluebird/bluebird.d.ts",
+        "./typings/body-parser/body-parser.d.ts",
         "./typings/chai/chai.d.ts",
         "./typings/express/express.d.ts",
+        "./typings/lodash/lodash.d.ts",
         "./typings/mime/mime.d.ts",
         "./typings/mocha/mocha.d.ts",
         "./typings/mockery/mockery.d.ts",
+        "./typings/mongoose/mongoose.d.ts",
         "./typings/node/node.d.ts",
         "./typings/serve-static/serve-static.d.ts",
         "./typings/sinon/sinon.d.ts",
-        "./typings/tsd.d.ts"
+        "./typings/tsd.d.ts",
+        "./utils/validator.util.ts"
     ]
 }

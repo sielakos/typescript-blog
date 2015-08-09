@@ -10,9 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "bluebird": "^2.9.34",
+    "body-parser": "^1.13.3",
     "express": "^4.13.3",
     "lodash": "^3.10.1",
     "mockery": "^1.4.0",
+    "mongoose": "^4.1.1",
     "sinon": "^1.15.4"
   },
   "devDependencies": {
